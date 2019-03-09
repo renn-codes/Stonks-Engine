@@ -1,0 +1,8 @@
+name: Venderonis
+version: 1.12.2-Beta 1.0a
+main: xyz.verityrb.Venderonis
+description:  A resource converter/market emulation plugin for Bukkit/Spigot servers. Created out of need of a modernized lack of existing public plugin.
+commands:
+  vtrade:
+    description: Trade unneeded resources (like Coal) for others (like Gold)!
+    usage: /vtrade
