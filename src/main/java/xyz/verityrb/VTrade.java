@@ -82,7 +82,7 @@ public class VTrade implements CommandExecutor {
         invBuy_Stone.setItem(5, new ItemStack(Material.STONE, 1, (short) 3));
         invBuy_Stone.setItem(6, new ItemStack(Material.STONE, 1, (short) 5));
         invBuy_Stone.setItem(7, new ItemStack(Material.STONE, 1, (short) 1));
-        invBuy_Stone.setItem(8, new ItemStack(Material.QUARTZ_BLOCK, 1, (short) 0));
+        invBuy_Stone.setItem(8, new ItemStack(Material.SPONGE, 1, (short) 0));
         createDisplay(BARRIER, invBuy_Stone, 17, "Exit", "~ Exit Venderonis ~");
     }
 
